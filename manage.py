@@ -1,7 +1,7 @@
 from doctest import script_from_examples
 from re import S
-from app import app, create_app
-from flask_script import Manager,Server
+from app import create_app
+from flask import Manager,Server
 
 # Creating app instance
 app = create_app('development')
