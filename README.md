@@ -1,4 +1,4 @@
-# News-API
+# emdeenews
 # News-APP
 
 ## Built By [Perry Sugut](https://github.com/gwashh/)
