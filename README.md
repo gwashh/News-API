@@ -6,10 +6,6 @@
 News app is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API]
 The code is in the master branch.
 
-## Built By [Perry Sugut](https://github.com/gwashh/)
-
-## Description
-Habri.. Chap chap is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API](https://newsapi.org/).
 
 You can view the site at:[Heroku](https://emdeenews.herokuapp.com/)
 
@@ -67,7 +63,7 @@ As a user I would like to:
         * Insert the following info into it:
 
                 export NEWS_API_KEY='<Your-Api-Key>'
-                python3.6 manage.py server
+                python3 manage.py server
 
         * Insert the API Key you received from News Api where <Your-Api-Key> is.
 
@@ -82,7 +78,7 @@ As a user I would like to:
         $ python3 manage.py server
 
 ## Technologies Used
-* Python3.6
+* Python3.8
 * Flask
 
 ## License
