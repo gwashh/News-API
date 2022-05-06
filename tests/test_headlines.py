@@ -1,6 +1,7 @@
 import unittest
 from app.models import Headlines
 
+
 class HeadlinesTest(unittest.TestCase):
     '''
     Test Class to test the behaviour of the Headlines class

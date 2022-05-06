@@ -1,6 +1,7 @@
 import unittest
 from app.models import Category
 
+
 class CategoryTest(unittest.TestCase):
     '''
     Test Class to test the behaviour of the Category class
